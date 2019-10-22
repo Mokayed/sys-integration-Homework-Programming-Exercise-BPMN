@@ -1,6 +1,6 @@
 # Homework-Programming-Exercise-BPMN 
 
-<p> Hallur við Neyst - Murched Kayed </p>
+<h6>Made by: Hallur við Neyst - Murched Kayed </h6>
  
 <h2> DESCRIPTION </h2>
 
