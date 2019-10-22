@@ -1,4 +1,4 @@
-# Homework-Programming-Exercise-BPMN
+# Homework-Programming-Exercise-BPMN (Hallur við Neyst - Murched Kayed)
 
 <h2> DESCRIPTION </h2>
 
