@@ -29,6 +29,9 @@ Upload the graphical model, its XML file, and any other relevant deployment comp
 
 <ol>
 <li>Be able to <em>name some products</em> and some <em>criteria for comparing</em> them.</li>
+ 
+ 
+ 
 <li>Instead of focusing on the differences between the products, get acquainted with the standard, which most of them share in following: <a href="https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation" rel="nofollow">BPMN 2.0.2</a></li>
 <li>Download the poster from <a href="http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf" rel="nofollow">http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf</a> and try to learn from it <em>what a BPMN diagram is</em> and <em>what is its role</em>. You will be able to experience it in the next sessions.</li>
 </ol>
@@ -42,9 +45,13 @@ TIBCO
 TIBCO Software Inc. is an American company that provides integration, analytics and event-processing software for companies to use on-premises or as part of cloud computing environments. The software manages information, decisions, processes and applications
 bpm online
 
+Bpm'online
+
 Bpm'online is a global software company leading in the space of business process automation and CRM.
 The company has been highly recognized as a market leader by key industry analysts. Its intelligent platform accelerates sales, marketing, service and operations for thousands of customers and hundreds of partners worldwide.
 bonitabpm
+
+Bonita
 
 Bonita is an open-source business process management and workflow application platform created in 2001. It was begun at the French National Institute for Research in Computer Science, and subsequently transferred to Groupe Bull
 comindware
