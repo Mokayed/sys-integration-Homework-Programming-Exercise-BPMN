@@ -82,10 +82,10 @@ A no-code solution with the ability to give businesses the required control over
 They all share a standard. the standard is this: usiness Process Model and Notation (BPMN) is a standard for business process modeling that provides a graphical notation for specifying business processes in a Business Process Diagram (BPD).
 </p>
 
-<h4> 3) what a BPMN diagram is and what is its role. </h4>
+<h4> 3)What a BPMN diagram is and what is its role. </h4>
 
 <p>
-a BPMN diagram is a way to represent the business value using different activity events, gateways and data. The primary role of it is to provide a standard notation readily understandable by all business stakeholders.
+A BPMN diagram is a way to represent the business value using different activity events, gateways and data. The primary role of it is to provide a standard notation readily understandable by all business stakeholders.
 </p>
 
 <h3>Development</h3>
