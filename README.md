@@ -36,7 +36,7 @@ Upload the graphical model, its XML file, and any other relevant deployment comp
 <li>Download the poster from <a href="http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf" rel="nofollow">http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf</a> and try to learn from it <em>what a BPMN diagram is</em> and <em>what is its role</em>. You will be able to experience it in the next sessions.</li>
 </ol>
 
-name some products and some criteria of BPM and BPM software
+1. name some products and some criteria of BPM and BPM software
 
 
 
@@ -53,11 +53,13 @@ bonitabpm
 
 Bonita
 
-Bonita is an open-source business process management and workflow application platform created in 2001. It was begun at the French National Institute for Research in Computer Science, and subsequently transferred to Groupe Bull
+*Bonita is an open-source business process management and workflow application platform created in 2001. It was begun at the French National Institute for Research in Computer Science, and subsequently transferred to Groupe Bull
+
 comindware
 
-enables creation of enterprise applications and solutions for all kinds of business needs
+*enables creation of enterprise applications and solutions for all kinds of business needs
 Management/CRM, Order to Cash and Request Management, ITSM, Partner and Supply Chain Management, Compliance and Policy Management and many others
+
 k2platform
 
 a no-code solution with the ability to give businesses the required control over their workflow processes.
@@ -67,13 +69,10 @@ Instead of focusing on the differences between the products, get acquainted with
 
 
 
-they all share a standard. the standard is this: usiness Process Model and Notation (BPMN) is a standard for business process modeling that provides a graphical notation for specifying business processes in a Business Process Diagram (BPD).
+2. they all share a standard. the standard is this: usiness Process Model and Notation (BPMN) is a standard for business process modeling that provides a graphical notation for specifying business processes in a Business Process Diagram (BPD).
 
 
-
-what a BPMN diagram is and what is its role.
-
-
+3. what a BPMN diagram is and what is its role.
 
 a BPMN diagram is a way to represent the business value using different activity events, gateways and data. The primary role of it is to provide a standard notation readily understandable by all business stakeholders.
 
