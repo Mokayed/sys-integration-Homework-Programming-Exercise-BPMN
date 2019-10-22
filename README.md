@@ -35,3 +35,5 @@ Upload the graphical model, its XML file, and any other relevant deployment comp
 <h3>Development</h3>
 
 <a href="https://github.com/Mokayed/sys-integration-Homework-Programming-Exercise-BPMN/blob/master/diagram_1.bpmn">the diagram xml file can be seen by clicking here</a>
+
+<img src="https://github.com/Mokayed/sys-integration-Homework-Programming-Exercise-BPMN/blob/master/unknown.png" alt="diagram"/>
