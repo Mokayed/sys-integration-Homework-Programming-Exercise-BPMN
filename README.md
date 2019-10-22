@@ -1,4 +1,4 @@
-# sys-integration-Homework-Programming-Exercise-BPMN
+# Homework-Programming-Exercise-BPMN
 
 <h2> DESCRIPTION </h2>
 
