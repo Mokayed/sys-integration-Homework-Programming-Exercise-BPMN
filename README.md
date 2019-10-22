@@ -1,6 +1,7 @@
 # sys-integration-Homework-Programming-Exercise-BPMN
 
-<h1> DESCRIPTION <h1>
+<h1> DESCRIPTION </h1>
+
 <p>
 The Task
 You can choose one of the three Travel Booking assignments in Github (https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Assignments)
