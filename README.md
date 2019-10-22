@@ -27,16 +27,6 @@ Upload the graphical model, its XML file, and any other relevant deployment comp
 
 <h3>Research</h3>
 
-<ol>
-<li>Be able to <em>name some products</em> and some <em>criteria for comparing</em> them.</li>
- 
- 
- 
-<li>Instead of focusing on the differences between the products, get acquainted with the standard, which most of them share in following: <a href="https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation" rel="nofollow">BPMN 2.0.2</a></li>
-<li>Download the poster from <a href="http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf" rel="nofollow">http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf</a> and try to learn from it <em>what a BPMN diagram is</em> and <em>what is its role</em>. You will be able to experience it in the next sessions.</li>
-</ol>
-
-
 <h4> 1) Name some products and some criteria of BPM and BPM software </h4>
 
 
@@ -84,15 +74,15 @@ A no-code solution with the ability to give businesses the required control over
 </p>
 
 
-<h5> 
+<h4> 
  2)  Instead of focusing on the differences between the products, get acquainted with the standard, which most of them share in following: BPMN 2.0.2
-</h5>
+</h4>
 
 <p>
 They all share a standard. the standard is this: usiness Process Model and Notation (BPMN) is a standard for business process modeling that provides a graphical notation for specifying business processes in a Business Process Diagram (BPD).
 </p>
 
-<h5> 3) what a BPMN diagram is and what is its role. </h5>
+<h4> 3) what a BPMN diagram is and what is its role. </h4>
 
 <p>
 a BPMN diagram is a way to represent the business value using different activity events, gateways and data. The primary role of it is to provide a standard notation readily understandable by all business stakeholders.
